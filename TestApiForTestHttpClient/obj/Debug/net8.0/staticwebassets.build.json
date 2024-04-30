@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VM9qAMdQQhUD/lvlR8/iOYV+Y40C3Fc/pUMhO62TM64=",
+  "Source": "TestApiForTestHttpClient",
+  "BasePath": "_content/TestApiForTestHttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
